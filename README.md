@@ -30,7 +30,7 @@ User can chose share the app directly to friend
 Users can choose to share their experience from the app review. 
 
 Design:
-<img src="24cc7893-f6ef-45c1-99ed-4a565945d1b5.jpg" alt="let's see the design!" width="500"/>
+<img src="24cc7893-f6ef-45c1-99ed-4a565945d1b5.jpg" alt="let's see the design!" width="750"/>
 
 
 
