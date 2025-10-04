@@ -29,5 +29,7 @@ User should be able to have a color alert when the expense reach the limit sets
 User can chose share the app directly to friend
 Users can choose to share their experience from the app review. 
 Design:
+<img src=" " alt="let's see the design!" width="500"/>
+
 
 
